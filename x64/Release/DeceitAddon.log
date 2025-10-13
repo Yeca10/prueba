@@ -1,0 +1,95 @@
+﻿  Config.cpp
+  DirectX.cpp
+  dllmain.cpp
+  ultimate_hooks.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Render.cpp
+  Structs.cpp
+  Vector.cpp
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Render.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Vector.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.cpp(529,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "DirectX.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "dllmain.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Render.cpp(19,63): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Render.cpp(19,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Render.cpp(104,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Render.cpp(205,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Render.cpp(215,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Vector.h(197,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Structs.cpp")
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Structs.h(478,7): warning C4099: 'IEntityIt': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Structs.h(478,7):
+      vea la declaración de 'IEntityIt'
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Structs.h(478,7): warning C4099: 'IEntityIt': nombre de tipo visto anteriormente usando 'struct' ahora se ve usando 'class'
+  (compilando archivo de origen "Structs.cpp")
+      C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Structs.h(478,7):
+      vea la declaración de 'IEntityIt'
+  
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Structs.cpp(21,26): warning C4244: 'argumento': conversión de 'EntityId' a 'unsigned int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(49,23): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(49,23): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(49,83): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(49,83): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(118,113): warning C4244: 'argumento': conversión de 'DWORD64' a 'unsigned int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(118,74): warning C4244: 'argumento': conversión de 'DWORD64' a 'unsigned int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(118,41): warning C4244: 'argumento': conversión de 'DWORD64' a 'unsigned int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(119,16): warning C4244: 'inicializando': conversión de 'DWORD64' a 'int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(142,10): warning C4244: 'argumento': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(246,92): warning C4244: 'argumento': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(256,3): warning C4244: 'argumento': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(561,7): warning C4244: 'argumento': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(590,25): warning C4244: 'inicializando': conversión de 'uintptr_t' a 'long'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Hooks\ultimate_hooks.cpp(634,19): warning C4244: 'inicializando': conversión de 'uintptr_t' a 'long'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\DirectX.cpp(305,13): warning C4244: '=': conversión de 'UINT' a 'FLOAT'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\DirectX.cpp(306,14): warning C4244: '=': conversión de 'UINT' a 'FLOAT'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(311,8): warning C4101: 'old': variable local sin referencia
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(347,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(347,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(423,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(470,18): warning C4309: '=': truncamiento de valor constante
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(493,83): warning C4244: 'argumento': conversión de 'int64' a 'int'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(506,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(517,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(571,47): warning C4311: 'conversión de tipo': truncamiento de puntero de 'IEntityIt *' a 'int'
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(571,47): warning C4302: 'conversión de tipo': truncamiento de 'IEntityIt *' a 'int'
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(653,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(653,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(681,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(682,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(761,41): warning C4244: 'argumento': conversión de 'float' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(761,32): warning C4244: 'argumento': conversión de 'float' a 'DWORD'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(878,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(898,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(905,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(918,75): warning C4244: 'argumento': conversión de 'int' a 'float_t'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(918,70): warning C4244: 'argumento': conversión de 'int' a 'float_t'; posible pérdida de datos
+C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\DeceitAddon\Main.cpp(918,44): warning C4244: 'argumento': conversión de 'int' a 'float_t'; posible pérdida de datos
+  Generando código
+  1645 of 3132 functions (52.5%) were compiled, the rest were copied from previous compilation.
+    1320 functions were new in current compilation
+    93 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  DeceitAddon.vcxproj -> C:\Users\pedro\Downloads\DeceitAddon-main\DeceitAddon-main\x64\Release\DeceitAddon.dll
